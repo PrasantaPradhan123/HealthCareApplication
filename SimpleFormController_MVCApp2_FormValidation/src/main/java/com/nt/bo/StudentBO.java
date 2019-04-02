@@ -18,5 +18,5 @@ public class StudentBO {
 		this.sadd = sadd;
 	}
 	
-	
+	//;;;;;;;;;;;;;;;;;;;;
 }
